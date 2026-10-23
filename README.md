@@ -12,7 +12,7 @@ Estudante de Ciência da Computação, pesquisador de iniciação científica e 
   <img alt="Gráfico de contribuições em formato Pac-Man" src="https://raw.githubusercontent.com/henriquecabralx/henriquecabralx/output/pacman-contribution-graph.svg">
 </picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=henriquecabralx&style=flat-square&color=blue)
+![Visitas](https://hits.sh/github.com/henriquecabralx.svg?style=flat-square&label=visitas&color=0a66c2)
 ![Followers](https://img.shields.io/github/followers/henriquecabralx?style=flat-square&logo=github)
 
 </div>
